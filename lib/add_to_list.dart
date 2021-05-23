@@ -11,7 +11,7 @@ class _AddToListState extends State<AddToList> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Counter App"),
+        title: Text("Edited Sample App"),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
